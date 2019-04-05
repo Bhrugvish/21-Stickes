@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# 21 Sticks
 JFrame
